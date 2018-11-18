@@ -7,7 +7,7 @@ This GitHub repository holds the data and Starter Kit for my Critical Infrastuct
 * [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - The mapping software used
 
 
-## Authors
+## Author
 
 * **Susan Burtner** - sab00@ucsb.edu
 
