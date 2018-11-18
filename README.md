@@ -19,5 +19,4 @@ This project is licensed under the Creative Commons Zero v1.0 Universal license 
 ## Acknowledgments
 
 * Alan Liu, distinguished professor in the English department at UCSB and founding scholar of Critical Infrastructure
-* My dog, Flower, for always being there for me.
 * Stephen Skilton, for the suggestion to use GitHub and Jekyll for my blog posts! Thanks Steve!
