@@ -2,9 +2,10 @@
 
 This GitHub repository holds the data and Starter Kit for my Critical Infrastucture class (ENGL 238) at UC Santa Barbara in the fall quarter of 2018. Also included are two blog posts that help orient the reader to the unique history and uncertain future of Islais Creek, the historic site for which this Starter Kit is about.
 
-## Built With
+## Software Used
 
-* [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - The mapping software used
+* Starter Kit - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - *The mapping software*
+* Blog posts - [Jekyll](https://github.com/jekyll/jekyll) - *Static site generator*
 
 
 ## Author
