@@ -9,7 +9,7 @@ This GitHub repository holds the data and Starter Kit for my Critical Infrastuct
 
 ## Authors
 
-* **Susan Burtner** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Susan Burtner** - sab00@ucsb.edu
 
 ## License
 
