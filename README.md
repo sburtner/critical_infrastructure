@@ -4,7 +4,7 @@ This GitHub repository holds the data and Starter Kit for my Critical Infrastuct
 
 ## Software Used
 
-* Starter Kit - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - *The mapping software*
+* Starter Kit - [ArcGIS](https://www.esri.com/en-us/arcgis/about-arcgis/overview) - *Mapping software*; [GiftedMotion](http://www.onyxbits.de/giftedmotion) - *Gif animation*
 * Blog posts - [Jekyll](https://github.com/jekyll/jekyll) - *Static site generator*
 
 
