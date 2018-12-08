@@ -1,4 +1,4 @@
-# Daylighting Islais Creek
+# Daylighting Islais Creek through Maps
 
 This GitHub repository holds the data and Starter Kit for my Critical Infrastucture class (ENGL 238) at UC Santa Barbara in the fall quarter of 2018. Also included on my website are a few blog posts that help orient the reader to the unique history and uncertain future of Islais Creek, the aquatic site for which this [Starter Kit](https://sburtner.github.io/starterkit/) is about.
 
